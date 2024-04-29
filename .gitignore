@@ -1,0 +1,6 @@
+secrects.txt
+
+# is used for comment
+
+#for excluding all .txt file
+# *.txt this convention is used for excluding all the txt files in the staging area
